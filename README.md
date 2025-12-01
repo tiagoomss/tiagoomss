@@ -1,11 +1,10 @@
 <div align="center">
-    <h1>Olá! Eu sou o Tiago Moura 👋</h1>
-    
-    <p>🚀 Profissional em Transição de Carreira para a Área Digital</p>
-    <p>🛠️ Foco Imediato: **Trainee/Júnior em Infraestrutura e Automação**</p>
-    
-    <img src="https://user-images.githubusercontent.com/74038190/229045353-06db88ef-127e-4055-a043-41c304f5e263.gif" width="60%">
+<h1>Olá! Eu sou o Tiago Moura 👋</h1>
 
+<p>🚀 Profissional em Transição de Carreira para a Área Digital</p>
+<p>🛠️ Foco Imediato: **Trainee/Júnior em Infraestrutura e Automação**</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/229045353-06db88ef-127e-4055-a043-41c304f5e263.gif" width="60%">
 </div>
 
 ---
@@ -56,9 +55,9 @@ Estou em constante aprendizado, com foco em automação e infraestrutura para ga
 <div align="center">
     <br>
     <a href="https://github.com/tiagoomss">
-        <img src="https://github-readme-stats.vercel.app/api?username=tiagoomss&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=tiagoomss&show_icons=true&theme=dark&cache_seconds=3600" alt="Estatísticas do GitHub" />
     </a>
     <a href="https://github.com/tiagoomss">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoomss&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoomss&layout=compact&theme=dark&cache_seconds=3600" alt="Linguagens Mais Usadas" />
     </a>
 </div>
