@@ -48,7 +48,7 @@ Estou em constante aprendizado, com foco em automação e infraestrutura para ga
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [antonio-tiago-moura-da-silva-444bb2188](https://www.linkedin.com/in/antonio-tiago-moura-da-silva-444bb2188/) |
-| **E-mail** | tiagoms1000@gmail.com |
+| **E-mail** | ---------- |
 
 ---
 
