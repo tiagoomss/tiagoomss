@@ -42,16 +42,16 @@ Estou em constante aprendizado, com foco em automação e infraestrutura para ga
 * **Repositório:** [monitor-sistema](https://github.com/tiagoomss/monitor-sistema)
 
 ---
-## 📚 Atualmente Estudando
+## 📚 Roadmap de Estudos & Evolução
 
-Focado em expandir meu conhecimento em infraestrutura escalável, automação e segurança cibernética.
+Focado em construir uma base sólida em infraestrutura, automação e segurança.
 
-| Tecnologia | Descrição |
-| :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> | **AWS (Cloud Practitioner)** - Fundamentos de computação em nuvem e serviços essenciais. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /> | **Microsoft Azure** - Administração de recursos e governança em nuvem. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /> | **Docker** - Conteinerização de aplicações e isolamento de ambientes. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /> | **Security & Linux** - Práticas de segurança defensiva e laboratórios no TryHackMe. |
+| Tecnologia | Status | Foco Principal |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35" /> | **Em Progresso** | Administração de sistemas, Bash Scripting e segurança defensiva. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35" /> | **Em Progresso** | Conteinerização e isolamento de ambientes para desenvolvimento. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35" /> | **Revisão** | Fundamentos de Cloud e serviços essenciais (EC2, S3, IAM). |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" height="35" /> | **Interesse** | Exploração de serviços de nuvem da Microsoft para expandir o conhecimento multicloud. |
 
 ---
 
