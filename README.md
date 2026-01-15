@@ -42,6 +42,18 @@ Estou em constante aprendizado, com foco em automação e infraestrutura para ga
 * **Repositório:** [monitor-sistema](https://github.com/tiagoomss/monitor-sistema)
 
 ---
+## 📚 Atualmente Estudando
+
+Focado em expandir meu conhecimento em infraestrutura escalável, automação e segurança cibernética.
+
+| Tecnologia | Descrição |
+| :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> | **AWS (Cloud Practitioner)** - Fundamentos de computação em nuvem e serviços essenciais. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" /> | **Microsoft Azure** - Administração de recursos e governança em nuvem. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" /> | **Docker** - Conteinerização de aplicações e isolamento de ambientes. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" /> | **Security & Linux** - Práticas de segurança defensiva e laboratórios no TryHackMe. |
+
+---
 
 ## 🔗 Me Encontre
 
