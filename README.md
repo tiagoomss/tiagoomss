@@ -11,7 +11,7 @@ tiago@github:~$ whoami
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Tiago-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiago-moura-444bb2188)
-[![Gmail](https://img.shields.io/badge/Email-tiagoms1000%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tiagoms1000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-tiagoms1000%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:???)
 [![GitHub](https://img.shields.io/badge/GitHub-tiagoomss-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tiagoomss)
 
 ---
